@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: 博客新闻
 nav:
-  order: 4
+  order: 3
   tooltip: Musings and miscellany
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 团队
 nav:
-  order: 3
+  order: 4
   tooltip: 关于
 ---
 
