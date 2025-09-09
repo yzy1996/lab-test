@@ -1,15 +1,13 @@
 ---
-title: Team
+title: 团队
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: 关于
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+我们组成员主要分布在：香港 ｜ 深圳 ｜ 上海 ｜ 北京
 
 {% include section.html %}
 

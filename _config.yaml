@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: yzy1996
+title: 团队主页
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: AI大模型应用实验室.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,6 @@ proofer: false
 # site social media and other links
 links:
   email: contact@yzy1996.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: yzy1996
-  twitter: yzy1996
-  youtube: yzy1996
 
 ### jekyll settings
 

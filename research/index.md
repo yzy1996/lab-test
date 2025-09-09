@@ -1,8 +1,8 @@
 ---
-title: Research
+title: 研究
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 论文发表
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
