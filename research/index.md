@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %} 论文发表
 
-这里收录了我们团队发表在各大会议期刊的论文，主要包括：ai4eda | ai4solver | llm4algdesign | solver4codesign | solver4llm | solver4tob
+这里收录了我们团队发表在各大会议期刊的论文，主要包括：ai4eda / ai4solver / llm4algdesign / solver4codesign / solver4llm / solver4tob
 
 {% include section.html %}
 
