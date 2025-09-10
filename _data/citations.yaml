@@ -131,3 +131,22 @@
   link: https://arxiv.org/abs/2504.19636
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2505.17155
+  title: 'TrimR: Verifier-based Training-Free Thinking Compression for Efficient Test-Time
+    Scaling'
+  authors:
+  - Weizhe Lin
+  - Xing Li
+  - Zhiyuan Yang
+  - Xiaojin Fu
+  - Hui-Ling Zhen
+  - Yaoyuan Wang
+  - Xianzhi Yu
+  - Wulong Liu
+  - Xiaosong Li
+  - Mingxuan Yuan
+  publisher: arXiv
+  date: '2025-06-03'
+  link: https://arxiv.org/abs/2505.17155
+  plugin: sources.py
+  file: sources.yaml
