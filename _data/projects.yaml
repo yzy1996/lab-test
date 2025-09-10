@@ -7,12 +7,12 @@
                EOH引入了一种新的范式，利用大型语言模型（LLMs）和演变计算（EC）之间的协同作用进行自动启发式设计（AHD）。思维和代码在演变框架内的共同演化为卓越的AHD性能，同时降低了计算成本。
   repo: FeiLiu36/EoH
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 电子设计自动化
+  subtitle: electronic design automation, EDA
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 电子设计自动化（electronic design automation, EDA）是指利用计算机辅助设计（CAD）软件，来完成超大规模集成电路（VLSI）芯片的功能设计、综合、验证、物理设计（包括布局、布线、版图、设计规则检查等）等流程的设计方式。诺亚方舟实验室是华为公司负责AI算法的研究部门，EDA算法项目组紧跟基于AI的决策推理研究，解决当前EDA里空间探索、组合优化、图计算等相关问题。同时探索与应用数据驱动（Data-driven）的算法，构建核心技术竞争力。
   repo: greenelab/lab-website-template
   tags:
     - resource
