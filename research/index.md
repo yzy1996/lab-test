@@ -5,16 +5,15 @@ nav:
   tooltip: 论文发表
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} 论文发表
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+这里收录了我们团队发表在各大会议期刊的论文，主要包括：ai4eda | ai4solver | llm4algdesign | solver4codesign | solver4llm | solver4tob
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Verifier-based Training-Free Thinking Compression for Efficient Test-Time Scaling" style="rich" %}
 
 {% include section.html %}
 
