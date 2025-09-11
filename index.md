@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-[大模型推理加速] 深度学习模型推理优化，提升模型部署效率，降低计算成本.
+深度学习模型推理优化，提升模型部署效率，降低计算成本。
 
 {%
   include button.html
@@ -28,13 +28,13 @@
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="大模型推理加速"
   text=text
 %}
 
 {% capture text %}
 
-[高性能优化求解器，解决复杂约束优化问题，支持大规模工程计算] 高性能优化求解器，解决复杂约束优化问题，支持大规模工程计算
+高性能优化求解器，解决复杂约束优化问题，支持大规模工程计算
 
 {%
   include button.html
@@ -51,7 +51,7 @@
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="高性能优化求解器"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@
 
 {% capture text %}
 
-[ToB行业应用] 面向企业的行业解决方案，将核心算法技术转化为商业价值
+面向企业的行业解决方案，将核心算法技术转化为商业价值
 
 {%
   include button.html
@@ -76,6 +76,6 @@
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="ToB行业应用"
   text=text
 %}
